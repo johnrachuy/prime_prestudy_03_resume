@@ -1,0 +1,80 @@
+body {
+	font-family: 'Lato', sans-serif;
+	width: 800px;
+	margin: 40px auto 60px;
+}
+
+.color {
+	color: #ff6600;
+}
+.desc-left {
+	float: left;
+	width: 25%;
+
+}
+
+.desc-right {
+	float: left;
+	width: 75%;
+}
+
+.head-left {
+	float: left;
+	width: 25%;
+	height: 180px;
+}
+
+.head-right {
+	float: left;
+	width: 75%;
+	height: 180px;
+}
+
+.text-name {
+	font-weight: 400;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h3 {
+	font-weight: 400;
+}
+
+h4 {
+	color: #b0b0b0;
+	font-weight: 400;
+	font-style: italic;
+}
+
+.reveal {
+	display: none;
+}
+
+.button {
+	height: 300px;
+	width: 300px;
+	border: none;
+	border-radius: 100%;
+	background-color: #b0b0b0;
+}
+
+.button h1 {
+	color: white;
+}
+
+.button:focus {
+	outline: 0;
+}
+
+.button:hover {
+	background-color: #ff6600;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+
+
