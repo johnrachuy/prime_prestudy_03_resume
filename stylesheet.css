@@ -7,6 +7,7 @@ body {
 .color {
 	color: #ff6600;
 }
+
 .desc-left {
 	float: left;
 	width: 25%;
@@ -48,6 +49,7 @@ h4 {
 	font-style: italic;
 }
 
+
 .reveal {
 	display: none;
 }
@@ -74,6 +76,19 @@ h4 {
 
 .wrapper {
     text-align: center;
+}
+
+h3:hover {
+	color: #ff6600;
+	font-weight: bold;
+}
+
+.color2 {
+	color: #ff6600;
+}
+
+h3:hover .color2 {
+	color: black;
 }
 
 
